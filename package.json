@@ -1,0 +1,16 @@
+{
+  "name": "@arturdoruch/util",
+  "description": "A collection of useful JavaScript utilities.",
+  "keywords": ["object type check", "camelize", "parse url query", "center element position"],
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arturdoruch/js-util"
+  },
+  "author": {
+    "name": "Artur Doruch",
+    "email": "arturdoruch@interia.pl"
+  },
+  "license": "MIT"
+}
