@@ -2,7 +2,7 @@
   "name": "@arturdoruch/util",
   "description": "A collection of useful JavaScript utilities.",
   "keywords": ["object type check", "camelize", "parse url query", "center element position"],
-  "version": "1.3.0",
+  "version": "1.3.1",
   "type": "module",
   "repository": {
     "type": "git",
