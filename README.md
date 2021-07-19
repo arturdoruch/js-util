@@ -13,7 +13,7 @@ yarn add @arturdoruch/util
 #### Array utils
 
 ```js
-import arrayUtils from '@arturdoruch/util/lib/array-utils';
+import arrayUtils from '@arturdoruch/util/lib/array-utils.js';
 ```
 
  * removeValue
@@ -21,7 +21,7 @@ import arrayUtils from '@arturdoruch/util/lib/array-utils';
 #### Object utils
 
 ```js
-import objectUtils from '@arturdoruch/util/lib/object-utils';
+import objectUtils from '@arturdoruch/util/lib/object-utils.js';
 ```
 
  * filter
@@ -31,7 +31,7 @@ import objectUtils from '@arturdoruch/util/lib/object-utils';
 #### Screen utils
   
 ```js  
-import screenUtils from '@arturdoruch/util/lib/screen-utils';
+import screenUtils from '@arturdoruch/util/lib/screen-utils.js';
 ```
 
  * getWidth
@@ -43,7 +43,7 @@ import screenUtils from '@arturdoruch/util/lib/screen-utils';
 #### String utils
 
 ```js
-import stringUtils from '@arturdoruch/util/lib/string-utils';
+import stringUtils from '@arturdoruch/util/lib/string-utils.js';
 ```
 
  * repeat
@@ -53,7 +53,7 @@ import stringUtils from '@arturdoruch/util/lib/string-utils';
 #### Url utils
 
 ```js
-import urlUtils from '@arturdoruch/util/lib/url-utils';
+import urlUtils from '@arturdoruch/util/lib/url-utils.js';
 ```
 
  * parseQueryString
@@ -64,7 +64,7 @@ import urlUtils from '@arturdoruch/util/lib/url-utils';
 Checks object type.
 
 ```js
-import typeChecker from '@arturdoruch/util/lib/type-checker';
+import typeChecker from '@arturdoruch/util/lib/type-checker.js';
 ```
 
  * isUndefined
